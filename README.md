@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishwasdabhi
 - 👀 I’m interested in competitive programming.
-- 🌱 I’m currently learning ML.
+- 🌱 I’m currently doing ML.
 - 📫 How to reach me : linkedin : Vishwas Dabhi
 - 😄 Pronouns: He,His,Him
 
